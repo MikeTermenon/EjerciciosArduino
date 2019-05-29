@@ -1,6 +1,6 @@
-#Práctica 1
+# Práctica 1
 
-##Encender y apagar cada segundo
+## Encender y apagar cada segundo
 
     void setup() {
       pinMode(13, OUTPUT);
@@ -19,9 +19,9 @@
 
 
 
-#Práctica 2
+# Práctica 2
 
-##2.1 Encender y apagar consecutivamente
+## 2.1 Encender y apagar consecutivamente
 
     int i;
 
@@ -44,7 +44,7 @@
   
 [![Vídeo funcionamiento unidad ZIP](practica2.PNG)](practica2.1.mp4 "Vídeo práctica 2.1")
 
-##2.2 Encender y apagar cada vez más rápido
+## 2.2 Encender y apagar cada vez más rápido
 
     int i;
     int j = 1000;
@@ -71,7 +71,7 @@
   
 [![Vídeo funcionamiento unidad ZIP](practica2.PNG)](practica2.2.mp4 "Vídeo práctica 2.2")
 
-##2.3 Encender y apagar todas a la vez (parpadeando 1 segundo)
+## 2.3 Encender y apagar todas a la vez (parpadeando 1 segundo)
 
     int i;
 
@@ -96,7 +96,7 @@
   
 [![Vídeo funcionamiento unidad ZIP](practica2.PNG)](practica2.3.mp4 "Vídeo práctica 2.3")
 
-##2.4 Encender la 1 y la 3, se apagan y se enciende la 2
+## 2.4 Encender la 1 y la 3, se apagan y se enciende la 2
 
     int i;
 
@@ -122,7 +122,7 @@
   
 [![Vídeo funcionamiento unidad ZIP](practica2.PNG)](practica2.4.mp4 "Vídeo práctica 2.4")
 
-#Práctica 3
+# Práctica 3
 
     int i;
 
@@ -149,7 +149,7 @@
   
 [![Vídeo funcionamiento unidad ZIP](practica3.PNG)](practica3.mp4 "Vídeo práctica 3")
 
-#Práctica 4
+# Práctica 4
 
     #include <Servo.h>
     Servo servo1;
@@ -178,7 +178,7 @@
   
 [![Vídeo funcionamiento unidad ZIP](practica4.PNG)](practica4.mp4 "Vídeo práctica 4")
 
-#Práctica 5
+# Práctica 5
 
     #include <Servo.h>
     Servo servo1;
@@ -215,7 +215,7 @@
   
 [![Vídeo funcionamiento unidad ZIP](practica5.PNG)](practica5.mp4 "Vídeo práctica 5")
 
-#Práctica 6
+# Práctica 6
 
     const int EchoPin = 5;
     const int TriggerPin = 7;
